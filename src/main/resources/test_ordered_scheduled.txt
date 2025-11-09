@@ -1,0 +1,50 @@
+Ava;11/08/2025;07:00 AM;Morning workout
+Ava;11/08/2025;09:00 AM;Project meeting
+Ava;11/08/2025;01:00 PM;Lunch with client
+Ava;11/08/2025;03:30 PM;Review marketing report
+Ava;11/09/2025;08:00 AM;Yoga class
+Ava;11/09/2025;10:00 AM;Grocery shopping
+Ava;11/09/2025;02:00 PM;Prepare presentation
+Ava;11/10/2025;09:30 AM;Team standup
+Ava;11/10/2025;11:00 AM;Submit project deliverables
+Ava;11/10/2025;06:00 PM;Dinner with family
+
+Noah;11/08/2025;06:45 AM;Go for a run
+Noah;11/08/2025;09:15 AM;Coffee with mentor
+Noah;11/08/2025;12:30 PM;Work on research paper
+Noah;11/08/2025;04:00 PM;Library study session
+Noah;11/09/2025;08:00 AM;Call parents
+Noah;11/09/2025;09:00 AM;Volunteer tutoring
+Noah;11/09/2025;01:00 PM;Lunch with study group
+Noah;11/09/2025;05:30 PM;Review notes for exam
+Noah;11/10/2025;07:30 AM;Gym
+Noah;11/10/2025;09:00 AM;Attend morning lecture
+Noah;11/10/2025;02:00 PM;Submit assignment
+Noah;11/10/2025;08:00 PM;Relax and watch series
+
+Mia;11/08/2025;08:00 AM;Morning walk
+Mia;11/08/2025;09:30 AM;Brunch with friend
+Mia;11/08/2025;11:00 AM;Work on painting project
+Mia;11/08/2025;02:30 PM;Visit art store
+Mia;11/09/2025;09:00 AM;Clean apartment
+Mia;11/09/2025;10:30 AM;Cook lunch
+Mia;11/09/2025;01:00 PM;Attend virtual art class
+Mia;11/09/2025;06:00 PM;Video call with parents
+Mia;11/10/2025;08:30 AM;Jog in park
+Mia;11/10/2025;10:00 AM;Deliver artwork
+Mia;11/10/2025;03:00 PM;Read art journal
+Mia;11/10/2025;09:00 PM;Watch movie
+
+Liam;11/08/2025;07:15 AM;Breakfast
+Liam;11/08/2025;08:00 AM;Check email
+Liam;11/08/2025;10:00 AM;Client meeting
+Liam;11/08/2025;01:30 PM;Lunch with team
+Liam;11/08/2025;03:00 PM;Project brainstorming
+Liam;11/09/2025;07:00 AM;Gym workout
+Liam;11/09/2025;09:00 AM;Plan weekly goals
+Liam;11/09/2025;02:00 PM;Work on side project
+Liam;11/09/2025;07:30 PM;Cook dinner
+Liam;11/10/2025;08:00 AM;Morning jog
+Liam;11/10/2025;10:00 AM;Sprint demo meeting
+Liam;11/10/2025;04:30 PM;Write project summary
+Liam;11/10/2025;09:00 PM;Play guitar

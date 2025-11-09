@@ -1,0 +1,53 @@
+Mia;11/09/2025;09:00 AM;Clean apartment
+Liam;11/08/2025;03:00 PM;Project brainstorming
+Ava;11/10/2025;06:00 PM;Dinner with family
+Noah;11/10/2025;08:00 PM;Relax and watch series
+Mia;11/08/2025;08:00 AM;Morning walk
+Liam;11/09/2025;07:00 AM;Gym workout
+Ava;11/08/2025;07:00 AM;Morning workout
+Noah;11/08/2025;09:15 AM;Coffee with mentor
+Ava;11/09/2025;10:00 AM;Grocery shopping
+Mia;11/10/2025;03:00 PM;Read art journal
+Noah;11/09/2025;01:00 PM;Lunch with study group
+Liam;11/08/2025;01:30 PM;Lunch with team
+Mia;11/09/2025;10:30 AM;Cook lunch
+Ava;11/10/2025;09:30 AM;Team standup
+Noah;11/08/2025;12:30 PM;Work on research paper
+Liam;11/10/2025;04:30 PM;Write project summary
+Mia;11/08/2025;11:00 AM;Work on painting project
+Noah;11/09/2025;08:00 AM;Call parents
+Ava;11/09/2025;02:00 PM;Prepare presentation
+Liam;11/10/2025;09:00 PM;Play guitar
+Ava;11/09/2025;08:00 AM;Yoga class
+Liam;11/09/2025;09:00 AM;Plan weekly goals
+Mia;11/08/2025;09:30 AM;Brunch with friend
+Noah;11/08/2025;04:00 PM;Library study session
+Ava;11/08/2025;09:00 AM;Project meeting
+Mia;11/10/2025;09:00 PM;Watch movie
+Liam;11/08/2025;07:15 AM;Breakfast
+Ava;11/08/2025;03:30 PM;Review marketing report
+Noah;11/09/2025;05:30 PM;Review notes for exam
+Mia;11/10/2025;08:30 AM;Jog in park
+Liam;11/09/2025;02:00 PM;Work on side project
+Ava;11/10/2025;11:00 AM;Submit project deliverables
+Noah;11/10/2025;07:30 AM;Gym
+Mia;11/09/2025;01:00 PM;Attend virtual art class
+Liam;11/08/2025;08:00 AM;Check email
+Ava;11/08/2025;01:00 PM;Lunch with client
+Noah;11/10/2025;02:00 PM;Submit assignment
+Ava;11/09/2025;01:30 PM;Call family
+Liam;11/08/2025;10:00 AM;Client meeting
+Noah;11/08/2025;06:45 AM;Go for a run
+Mia;11/09/2025;06:00 PM;Video call with parents
+Liam;11/10/2025;08:00 AM;Morning jog
+Noah;11/08/2025;09:00 AM;Attend morning lecture
+Mia;11/08/2025;02:30 PM;Visit art store
+Ava;11/10/2025;09:00 AM;Submit weekly report
+Liam;11/09/2025;07:30 PM;Cook dinner
+Ava;11/09/2025;08:00 PM;Watch movie
+Noah;11/09/2025;09:00 AM;Volunteer tutoring
+Liam;11/10/2025;10:00 AM;Sprint demo meeting
+Mia;11/10/2025;10:00 AM;Deliver artwork
+Ava;11/08/2025;12:30 PM;Lunch with coworker
+Noah;11/08/2025;02:00 PM;Submit assignment
+Liam;11/08/2025;04:00 PM;Write project summary
