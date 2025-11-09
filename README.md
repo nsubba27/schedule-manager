@@ -9,7 +9,7 @@ Each schedule contains tasks that are automatically sorted by date and time.
 ### 💻 Program Demo
 This screenshot shows the Schedule Manager running in the terminal interface:
 
-![Schedule Manager Demo](src/main/resources/menu.png)
+![Schedule Manager Demo](src/main/resources/demo.png)
 
 ---
 
